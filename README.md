@@ -7,5 +7,4 @@ To run the program one can execute ./compile.sh in the terminal, and then use mp
  W: Initial position of the walker
  n: number of steps want to walk
 
-# Note
-the walking environment is integer between 0 and Max inclusive. and 0 <= W <= Max. 
+note: the walking environment is integer between 0 and Max inclusive. and 0 <= W <= Max. 
